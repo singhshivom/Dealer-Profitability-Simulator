@@ -72,3 +72,24 @@ Service lifetime value (LTV)
 
 ## Files in this repository
 
+Dealer-Profitability-Simulator/
+│
+├── calculator-template.xlsx
+├── sample-dataset.csv
+└── documentation.md
+
+
+---
+
+## Author
+
+Shiv Om Singh  
+Automotive Retail & Network Operations  
+Focus: COCO Retail | FOFO Billing | Dealer Profitability | Network Expansion
+
+---
+
+## Disclaimer
+
+All numbers are simulated and do not represent any specific OEM or dealership.
+The purpose of this project is analytical learning and industry understanding.
