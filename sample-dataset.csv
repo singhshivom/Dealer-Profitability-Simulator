@@ -1,0 +1,5 @@
+Vehicle,ExShowroomMargin,DiscountGiven,FinancePenetration,FinancePayout,InsurancePenetration,InsurancePayout,ExchangeRate,ExchangePayout,Accessories,Incentive,OverheadPerCar,InventoryInterest
+Scooter_110cc,3500,2000,0.55,1800,0.62,1200,0.28,900,750,1500,2200,600
+Motorcycle_125cc,5200,3200,0.60,2200,0.65,1500,0.32,1100,1100,1800,2600,850
+Motorcycle_160cc,7000,4800,0.68,2800,0.70,1800,0.38,1500,1500,2200,3100,1100
+Premium_200cc,10500,8000,0.72,4200,0.75,2400,0.45,2100,2600,3500,4500,1800
